@@ -1,4 +1,4 @@
-# Postman Tech Writer Challenge
+# Postman API Technical Documentation Challenge
 
 _A 15-day hands-on API learning journey for aspiring tech writers—no coding required._
 
