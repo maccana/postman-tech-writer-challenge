@@ -34,8 +34,10 @@ Once it’s open, you’ll see a sidebar on the left with tabs like **Collection
 
 - Click on the **Collections** tab in the left sidebar
 - Click the **+ New Collection** button
+- Select **Blank Collection** from the menu options
 
-![New Collection Button](../assets/screenshots/day00-new-collection.png)
+<img src="../assets/screenshots/day00-create-new-collection.png" width="300" style="margin: 20px 0px 20px 30px" />
+<!-- ![New Collection Button](../assets/screenshots/day00-create-new-collection_resized.png) -->
 
 ---
 
