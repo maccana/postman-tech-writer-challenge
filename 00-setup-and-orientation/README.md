@@ -48,9 +48,8 @@ Once it’s open, you’ll see a sidebar on the left with tabs like **Collection
 
 This helps you keep your work organized and gives it a personal touch.
 
-<img src="../assets/screenshots/day00-name-collection.png" width="500" style="margin: 20px 0px 20px 20px" />
-
-<!-- ![Collection Naming](../assets/screenshots/day00-name-collection.png) -->
+![New Collection Button](../assets/screenshots/day00-new-collection.png)
+<img src="../assets/screenshots/day00-create-new-collection.png" width="300" style="margin: 20px 0px 20px 30px" />
 
 ---
 
@@ -61,7 +60,7 @@ This helps you keep your work organized and gives it a personal touch.
 - Leave the request blank for now—we’ll fill it in tomorrow
 - Click **Save to collection**
 
-![Add Request](../assets/screenshots/day00-add-request.png)
+<!-- ![Add Request](../assets/screenshots/day00-add-request.png) -->
 
 ---
 
