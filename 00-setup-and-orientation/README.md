@@ -101,5 +101,7 @@ Creating a collection isn’t just about organization—it’s about **ownership
 
 ## ✅ Next Step
 
-Head to [`01-api-client`](../01-api-client/README.md) to send your first real API request!
+✅ Next Step
+
+Head to [01-api-client](../01-api-client/) to send your first real API request!
 
