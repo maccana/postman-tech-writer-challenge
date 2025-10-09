@@ -13,8 +13,8 @@ Today you'll learn how to use Postman as an API client—your main tool for send
 ## 🛠️ Step-by-Step Guide
 
 ### 1. Open Postman and create a new request
-![New Request Button](../assets/screenshots/day01-new-request.png)
+<!-- ![New Request Button](../assets/screenshots/day01-new-request.png) -->
 
 ### 2. Set the method to `GET` and enter the URL:
 
-![New Request Button](../assets/screenshots/day01-select-get-request.png)
+<!-- ![New Request Button](../assets/screenshots/day01-select-get-request.png) -->
