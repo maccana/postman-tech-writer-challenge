@@ -101,8 +101,5 @@ Creating a collection isn’t just about organization—it’s about **ownership
 
 ## ✅ Next Step
 
-✅ Next Step
-
-Head to [Day 1 – API Client](https://github.com/maccana/postman-tech-writer-challenge/tree/main/01-api-client) to send your first real API request!
-
+Head to [01-api-client](../01-api-client/README.md) to send your first real API request!
 
