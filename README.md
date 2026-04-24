@@ -19,7 +19,6 @@ It’s a clean, private reworking of the official “15 Days of Postman” chall
 - Tech writers looking to transition into API documentation
 - Writers who feel blocked by lack of coding experience
 - Anyone curious about APIs and Postman but unsure where to start
-- Hiring managers who want to see how I approach technical education
 
 ---
 
