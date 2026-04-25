@@ -18,11 +18,22 @@ https://jsonplaceholder.typicode.com/posts
 
 ![New Request Button](../assets/screenshots/day01-new-request.png)
 
-### 2. Set the method to `GET` and enter the URL:
+### 2. Set the method to `GET`:
+Click the send button to the right of the URL field. Within a few seconds you will received a response in the lower part of the UI.
 
 ![New Request Button](../assets/screenshots/day01-select-get-request.png)
 
-...
+
+## 📬 What Happened & What You Received
+
+**What happened:** Postman asked the server for data using a `GET` request. The server found the information and sent it back.
+
+**What you received:** A **response** containing:
+- **Body** – A list of 100 placeholder blog posts (each with a title and body text)
+- **Status code** – `200 OK` (means "success, here's your data")
+- **Headers** – Technical details about the response (like file type and size)
+
+That's it. The server gave you data; Postman showed it to you.
 
 ## ✅ Next Step
 
