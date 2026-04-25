@@ -13,6 +13,9 @@ Today you'll learn how to use Postman as an API client—your main tool for send
 ## 🛠️ Step-by-Step Guide
 
 ### 1. Create a new request
+Using the empty request you created in the previous step,type the follwoing URL into the request field.  
+https://jsonplaceholder.typicode.com/posts
+
 ![New Request Button](../assets/screenshots/day01-new-request.png)
 
 ### 2. Set the method to `GET` and enter the URL:
